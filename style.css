@@ -1,0 +1,21 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#map { 
+    height: 30rem; 
+    width: 40rem;
+}
+
+/* Custom styles for the Leaflet popup */
+  .leaflet-popup-content h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(207, 87, 150);
+  }
+  
+  .leaflet-popup-content p {
+    margin: 5px 0;
+    font-size: 14px;
+  }
