@@ -1,21 +1,69 @@
 html, body {
-    font-family: 'Roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+margin: 0;
+
 }
 
 #map { 
-    height: 30rem; 
-    width: 40rem;
+  height: 30rem; 
+  width: 40rem;
+  align-items: center;
+  margin: auto;
+}
+
+.contact h1 {
+margin-top: 4rem;
+}
+
+.contact {
+margin: 20px;
+}
+
+.websiteName {
+}
+
+header {
+color: rgb(242, 114, 140);
+  padding: 8px;
+  font-size: 25px;
+  border-radius: 0 0 16px 16px;
+  box-shadow: 1px 8px #888888;
+  -webkit-box-shadow: 0 10px 6px -6px #777;
+  -moz-box-shadow: 0 10px 6px -6px #777;
+  box-shadow: 0 10px 6px -6px #b5b5b5;
+  display: flex;
+  gap: 10px;
+}
+
+h2 {
+text-align: center;
+}
+
+.ourMission {
+padding: 0 193px;
+text-align: center;
+}
+
+footer {
+background-color: rgb(242, 114, 140);
+color: white;
+display: block;
+padding: 5px;
+text-align: center;
 }
 
 /* Custom styles for the Leaflet popup */
-  .leaflet-popup-content h3 {
-    margin: 0;
-    font-size: 16px;
-    font-weight: bold;
-    color: rgb(207, 87, 150);
-  }
-  
-  .leaflet-popup-content p {
-    margin: 5px 0;
-    font-size: 14px;
-  }
+.leaflet-popup-content h3 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: rgb(207, 87, 150);
+}
+
+.leaflet-popup-content p {
+  margin: 5px 0;
+  font-size: 14px;
+}

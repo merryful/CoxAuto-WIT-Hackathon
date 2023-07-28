@@ -14,17 +14,45 @@
             <link rel="preconnect" href="https://fonts.googleapis.com">
             <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
             <link href="https://fonts.googleapis.com/css2?family=Inter&family=Roboto&display=swap" rel="stylesheet">
-        <title>CodeSpan</title>
+        <title>GirlCode</title>
     </head>
-        <h1>Find a club or organization near you </h1>
-        <p>We are committed to helping you discover nearby clubs and organizations that empower 
-            girls with opportunities to learn, grow, and excel in coding. Our goal is to connect 
-            you with spaces that foster a supportive and inclusive environment, enabling young girls 
-            to develop their coding skills and thrive in the world of technology. Together, we can 
-            create a community that promotes diversity, equality, and a passion for STEM education 
-            among girls. Let's embark on this journey of discovery and empowerment together!</p>
-        </p>
-        <div id="map"></div>
+        <header>
+            <img src="ParmesanCheese.jpg" alt="GirlCode Logo" width="100" height="100">
+           <p class="websiteName">GirlCode</p> 
+        </header>
+        <section>
+            <p class="ourMission">We are committed to helping you discover nearby clubs and organizations that empower 
+                girls with opportunities to learn, grow, and excel in coding. Our goal is to connect 
+                you with spaces that foster a supportive and inclusive environment, enabling young girls 
+                to develop their coding skills and thrive in the world of technology. Together, we can 
+                create a community that promotes diversity, equality, and a passion for STEM education 
+                among girls. Let's embark on this journey of discovery and empowerment together!</p>
+            </p>
+            <h2>Find a club or organization near you </h2>
+            <div id="map"></div>
+        </section>
+        <section class="contact">
+            <h1>Get Connected</h1>
+            <p>In order to help each girl develop their skills we provide a way to get connected
+            with an organization. Using the map above, you are able to find an organization in
+            your area and use the website to find out more information about it. Then when you
+            put your information in below, we send a quick email to the organization alerting them
+            you want to get involved. Try now!
+            </p>
+           <form>
+                <p>First and last name.</p><input type="text" id="html" name="name" placeholder="First, Last">
+                <p>Age and Grade.</p><input type="text" id="number" name="age" placeholder="1234...">
+                <p>Email:</p><input type="email" id="adress" name="email" placeholder="example@123.com">
+                <p>Any more information?</p><input type="text" id="info" name="more info" placeholder="Any information you'd like to share with us or your chosen organization?">
+                <p>Name of chosen organization?</p><input type="text" id="organization" name="organization name" placeholder="Organization name">
+                <input type="submit">
+           </form>
+        </section>
+        <footer>
+            <div>
+                <p>Create by Sass Queens</p>
+            </div>
+        </footer>
     </body>
     <script src="main.js"></script>
 </html>
