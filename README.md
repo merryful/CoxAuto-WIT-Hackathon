@@ -13,7 +13,7 @@ Questions: <br>
 **What process or application are you trying to create or improve? How?** <br>
  Our goal is to develop a single-page web application that features an interactive map. This map will allow users to easily locate nearby clubs and organizations dedicated to supporting girls in STEAM and coding. By providing this central platform we aim to facilitate meaningful connections withint the STEAM community and offer valuable resources to aspiring girls who wish to explore and thrive in these fields. 
 
-**Who are your users? Why do they use your product?**
+**Who are your users? Why do they use your product?** <br>
  Our primary users are girls of all ages who share a passion for STEAM subjects. They will use our product to find and engage with like-minded individuals, mentors, and local organizations. Through this platform, girls can access opportunities for learning, growth, and collaboration, which will boost their confidence and inspire them to pursue careers in STEAM fields.
  
 ### Setting up your work station
