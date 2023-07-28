@@ -6,7 +6,7 @@ Cox believes in a world where no barrier should ever hold anyone back from great
 
 Equity recognizes that each person has different circumstances and allocates the exact resources and opportunities needed to raech an equal outcome.
 
-Questions:
+Questions: <br>
 **What problem are you trying to solve? Why?**
  We aim to solve the problem of empowring girls in the STEAM field by creating a community support platform. The platform will act as a bridge, connecting girls with mentors, clubs, and organizations that can help them excel in their coding journey and overall STEAM pursuits. We are actively working towards reducing the gender gap and promoting equal opportunities for girls.
  
@@ -28,4 +28,4 @@ Clone repository:
 1. Create a folder on your local machine (this is where your project is going to exist)
 2. Follow steps in link (https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) under "Cloning repository". <br>
   ** If you have an account then clone this way: Clone a repository using GitHub CLI, click GitHub CLI, then click . <br>
-  ** If you Dont have an account then clone this way: To clone the repository using HTTPS, under "HTTPS", click .
+  ** If you Dont have an account: download zip file and open the folder in your IDE.
